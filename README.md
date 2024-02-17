@@ -11,7 +11,7 @@ Install git, Clone this repository, Go in the folder and usw following commands 
 ```
 ~# chmod +x install.sh
 
-~# shell ./install.sh
+~# ./install.sh
 ```
 
 After this start the Programm, Copy your .ais Archiv in this Folder, the Programm search automattically the .ais Archiv
